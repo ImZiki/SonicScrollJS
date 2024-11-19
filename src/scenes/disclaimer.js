@@ -6,6 +6,7 @@ export default function disclaimer() {
       `
         Sonic is owned by SEGA.
         This is a fangame made by DRG using assets from Sonic Mania
+        Credits to freeCodeCamp.org for the free course
       `,
       { font: "mania", size: 32 }
     ),
